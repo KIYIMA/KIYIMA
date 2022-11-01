@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="center" src="https://user-images.githubusercontent.com/92833030/199350632-8f3edc4c-5464-438d-be60-51e12fa19af1.gif"/>
+<img align="center" src="https://user-images.githubusercontent.com/92833030/199352259-1ce97084-5161-4f46-9cb3-c5338f25e6d6.gif"/>
 
 
 <!---
