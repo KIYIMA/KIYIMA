@@ -1,10 +1,12 @@
+<h1 align="center">Hi 👋, I'm Emnuel Lezcano</h1>
+
 - 👋 Hi, I’m @KIYIMA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![dev_animado](https://user-images.githubusercontent.com/92833030/199350632-8f3edc4c-5464-438d-be60-51e12fa19af1.gif)
+<img align="center" src="https://user-images.githubusercontent.com/92833030/199350632-8f3edc4c-5464-438d-be60-51e12fa19af1.gif"/>
 
 
 <!---
