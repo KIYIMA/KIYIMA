@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emnuel Lezcano</h1>
+<h1 align="center">Hi 👋, I'm Emanuel Lezcano</h1>
 
 - 👋 Hi, I’m @KIYIMA
 - 👀 I’m interested in ...
