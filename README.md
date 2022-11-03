@@ -1,4 +1,4 @@
-<img   width="100%" src="https://user-images.githubusercontent.com/92833030/199642243-98e699f6-e192-4e8c-a1d1-a4d4d91012e8.jpg"/>
+<img   width="75%" src="https://user-images.githubusercontent.com/92833030/199642427-3eb69f64-9a6d-4bef-9144-6f78367040de.jpg"/>
 
 
 <h1 align="start">Hi 👋, I'm Emanuel Lezcano!</h1>
